@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "This programm randomly displays a selected quote each time the user clicks a button",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://simonfeu.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/SimonFeu/techdegree-project-1",
+      "image_urls": [
+        "/static/images/p1_main.png",
+        "/static/images/p1_view1.png",
+        "/static/images/p1_view2.png",
+        "/static/images/p1_view3.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering ",
+      "description": "In this project, I have used a development technique known as 'pagination' to enhance the usability of the web page.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://simonfeu.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/SimonFeu/techdegree-project-2",
+      "image_urls": [
+        "/static/images/p2_main.png",
+        "/static/images/p2_view1.png",
+        "/static/images/p2_view2.png",
+        "/static/images/p2_view3.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "In this project I created a interactive registration form for a fictional conference called 'FullStack Conf. ",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://simonfeu.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/SimonFeu/techdegree-project-3/blob/master/index.html",
+      "image_urls": [
+        "/static/images/p3_main.png",
+        "/static/images/p3_view1.png",
+        "/static/images/p3_view2.png",
+        "/static/images/p3_view3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "In this project, I have create a browser-based, word guessing game: 'Phrase Hunter.' I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Object-Oriented JavaScript",
+        "Callback Functions in JavaScript",
+        "JavaScript Array Iteration"
+      ],
+      "live_link": "https://simonfeu.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/SimonFeu/techdegree-project-4",
+      "image_urls": [
+        "/static/images/p4_main.png",
+        "/static/images/p4_view1.png",
+        "/static/images/p4_view2.png",
+        "/static/images/p4_view3.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "In this project, I created an app for a fictional company called Awesome Startup. In this project I programmed a staff directory with contact information",
+      "technologies": ["HTML", "CSS", "JavaScript", "API", "Fetch", "AJAX"],
+      "live_link": "https://simonfeu.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/SimonFeu/techdegree-project-5",
+      "image_urls": [
+        "/static/images/p5_main.png",
+        "/static/images/p5_view1.png",
+        "/static/images/p5_view2.png",
+        "/static/images/p5_view3.png"
+      ]
+    }
+  ]
+}
