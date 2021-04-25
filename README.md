@@ -1,2 +1,2 @@
 # techdegree-project-6
- Static Node.js and Express Site
+ My sixth techdegree project
