@@ -18,8 +18,8 @@ In this project I used Node.js, Express and Pug templates to create a portfolio 
 ## Example Code
 
 ### Rendering pug template 
-This function is called when there is a get request which is calling the route "/"
-With "redner" the pug-template "index" is searched for in the folder "view" and then it will execute the file
+This function is called when there is a get request which is calling the route "/".
+With "redner" the pug-template "index" is searched for in the folder "view" and then it will execute the file.
 The second argument in the render function passes the array projects to the pug file
 ```javascript
 app.get("/", (req, res) => {
